@@ -6,4 +6,4 @@ Implementation of Cloud Task Scheduling alogrithms in Java
 3. Hybrid Glowworm Swarm Optimisation (HGSO)
 4. Mean Grey Wolf Optimisation (MGWO)
 
-Conclusions : https://colab.research.google.com/drive/1PC_1X3EyABmaWtRW51kXKTrxPtHowbJ2#scrollTo=Hfy1c2i55kCy
+Conclusions documented in : https://colab.research.google.com/drive/1PC_1X3EyABmaWtRW51kXKTrxPtHowbJ2#scrollTo=Hfy1c2i55kCy
